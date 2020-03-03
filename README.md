@@ -52,7 +52,6 @@ In order to select the optimal text alignment of the hypothesis texts was first 
 ### Models
 
 - Alignment by Entropy - see file for walkthrough
-- Alignment by Similarity - see file for walkthrough
 - Alignment by Dynamic Programming - see file for walkthrough
 
 ### Summary
